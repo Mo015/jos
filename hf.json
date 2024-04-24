@@ -1,6 +1,5 @@
 [
-    {
-        "features": [
+ 
           {
             "geometry": {
               "paths": [
@@ -121,8 +120,7 @@
             },
             "color": [57, 141, 190]
           }
-        ]
-      }
+       
       ,[{
         
             "geometry": {
