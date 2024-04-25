@@ -1,0 +1,2567 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "sovereignt" : "sovereignt"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "sovereignt",
+      "type" : "esriFieldTypeString",
+      "alias" : "sovereignt",
+      "length" : 254
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "sovereignt" : "Netherlands"
+      },
+      "geometry" : {
+        "x" : -69.974200750364275,
+        "y" : 12.516935269547105
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 2,
+        "sovereignt" : "Afghanistan"
+      },
+      "geometry" : {
+        "x" : 66.008447449290429,
+        "y" : 33.836266910689403
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 3,
+        "sovereignt" : "Angola"
+      },
+      "geometry" : {
+        "x" : 17.564336303277798,
+        "y" : -12.330512743867985
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 4,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -63.021443245009721,
+        "y" : 18.244106218826971
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 5,
+        "sovereignt" : "Albania"
+      },
+      "geometry" : {
+        "x" : 20.053819192801541,
+        "y" : 41.14248198215779
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 6,
+        "sovereignt" : "Finland"
+      },
+      "geometry" : {
+        "x" : 19.962290885815776,
+        "y" : 60.133961410091047
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 7,
+        "sovereignt" : "Andorra"
+      },
+      "geometry" : {
+        "x" : 1.5607562412076277,
+        "y" : 42.541326524999192
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 8,
+        "sovereignt" : "United Arab Emirates"
+      },
+      "geometry" : {
+        "x" : 53.976491732607428,
+        "y" : 23.433661950738497
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 9,
+        "sovereignt" : "Argentina"
+      },
+      "geometry" : {
+        "x" : -65.155160448495849,
+        "y" : -35.186565437744719
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 10,
+        "sovereignt" : "Armenia"
+      },
+      "geometry" : {
+        "x" : 44.931730878077587,
+        "y" : 40.288596787611709
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 11,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : -170.76524817656207,
+        "y" : -14.32610789826083
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 12,
+        "sovereignt" : "Antarctica"
+      },
+      "geometry" : {
+        "x" : 20.821025060258364,
+        "y" : -80.562342828958379
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 13,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : 69.501249971009429,
+        "y" : -49.31085850011965
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 14,
+        "sovereignt" : "Antigua and Barbuda"
+      },
+      "geometry" : {
+        "x" : -61.789600198090625,
+        "y" : 17.074794186702377
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 15,
+        "sovereignt" : "Australia"
+      },
+      "geometry" : {
+        "x" : 134.35407490333421,
+        "y" : -25.573577139473343
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 16,
+        "sovereignt" : "Austria"
+      },
+      "geometry" : {
+        "x" : 14.130672867458941,
+        "y" : 47.585656922528983
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 17,
+        "sovereignt" : "Azerbaijan"
+      },
+      "geometry" : {
+        "x" : 47.659729476734014,
+        "y" : 40.345830101278182
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 18,
+        "sovereignt" : "Burundi"
+      },
+      "geometry" : {
+        "x" : 29.875082694211017,
+        "y" : -3.3574253365100049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 19,
+        "sovereignt" : "Belgium"
+      },
+      "geometry" : {
+        "x" : 4.6399605035744003,
+        "y" : 50.637461636345506
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 20,
+        "sovereignt" : "Benin"
+      },
+      "geometry" : {
+        "x" : 2.3287407452892239,
+        "y" : 9.641216769138623
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 21,
+        "sovereignt" : "Burkina Faso"
+      },
+      "geometry" : {
+        "x" : -1.755527664070371,
+        "y" : 12.269553908785895
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 22,
+        "sovereignt" : "Bangladesh"
+      },
+      "geometry" : {
+        "x" : 90.227339864743044,
+        "y" : 23.881420174701361
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 23,
+        "sovereignt" : "Bulgaria"
+      },
+      "geometry" : {
+        "x" : 25.217512624208268,
+        "y" : 42.768522582651144
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 24,
+        "sovereignt" : "Bahrain"
+      },
+      "geometry" : {
+        "x" : 50.543867946348712,
+        "y" : 26.049173193188381
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 25,
+        "sovereignt" : "The Bahamas"
+      },
+      "geometry" : {
+        "x" : -78.039729945880254,
+        "y" : 24.703818289582443
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 26,
+        "sovereignt" : "Bosnia and Herzegovina"
+      },
+      "geometry" : {
+        "x" : 17.773408026059599,
+        "y" : 44.171734083161482
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 27,
+        "sovereignt" : "Bajo Nuevo Bank (Petrel Is.)"
+      },
+      "geometry" : {
+        "x" : -79.987865859621706,
+        "y" : 15.795009963239238
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 28,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : -62.83261962499563,
+        "y" : 17.90558452220796
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 29,
+        "sovereignt" : "Belarus"
+      },
+      "geometry" : {
+        "x" : 28.033566459624467,
+        "y" : 53.531880481998712
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 30,
+        "sovereignt" : "Belize"
+      },
+      "geometry" : {
+        "x" : -88.704043447946731,
+        "y" : 17.201471521893268
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 31,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -64.768279589331542,
+        "y" : 32.298272690432384
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 32,
+        "sovereignt" : "Bolivia"
+      },
+      "geometry" : {
+        "x" : -64.684753561427669,
+        "y" : -16.706876859179658
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 33,
+        "sovereignt" : "Brazil"
+      },
+      "geometry" : {
+        "x" : -53.114637906014536,
+        "y" : -10.838520888628068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 34,
+        "sovereignt" : "Barbados"
+      },
+      "geometry" : {
+        "x" : -59.540557421187998,
+        "y" : 13.147664659296652
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 35,
+        "sovereignt" : "Brunei"
+      },
+      "geometry" : {
+        "x" : 114.59802902372053,
+        "y" : 4.4933261060150471
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 36,
+        "sovereignt" : "Bhutan"
+      },
+      "geometry" : {
+        "x" : 90.404460201377276,
+        "y" : 27.421756562815176
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 37,
+        "sovereignt" : "Botswana"
+      },
+      "geometry" : {
+        "x" : 23.798986733151253,
+        "y" : -22.185772321035756
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 38,
+        "sovereignt" : "Central African Republic"
+      },
+      "geometry" : {
+        "x" : 20.914283690739808,
+        "y" : 6.9956759045194303
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 39,
+        "sovereignt" : "Canada"
+      },
+      "geometry" : {
+        "x" : -102.35646401790007,
+        "y" : 57.939437166991695
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 40,
+        "sovereignt" : "Switzerland"
+      },
+      "geometry" : {
+        "x" : 8.210718017522538,
+        "y" : 46.972590125134218
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 41,
+        "sovereignt" : "Chile"
+      },
+      "geometry" : {
+        "x" : -71.24567898379803,
+        "y" : -35.451949979407971
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 42,
+        "sovereignt" : "China"
+      },
+      "geometry" : {
+        "x" : 104.18741784655646,
+        "y" : 32.320412422695199
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 43,
+        "sovereignt" : "Ivory Coast"
+      },
+      "geometry" : {
+        "x" : -5.5694746053686686,
+        "y" : 7.628469238364687
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 44,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : -109.22126424245079,
+        "y" : 10.297389383413361
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 45,
+        "sovereignt" : "Cameroon"
+      },
+      "geometry" : {
+        "x" : 12.73698416488736,
+        "y" : 5.693058205471857
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 46,
+        "sovereignt" : "Cyprus No Mans Area"
+      },
+      "geometry" : {
+        "x" : 33.203494602094281,
+        "y" : 35.171758247045489
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 47,
+        "sovereignt" : "Democratic Republic of the Congo"
+      },
+      "geometry" : {
+        "x" : 23.645663520854839,
+        "y" : -2.8796457767311381
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 48,
+        "sovereignt" : "Republic of Congo"
+      },
+      "geometry" : {
+        "x" : 15.21833615608881,
+        "y" : -0.83887998902025629
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 49,
+        "sovereignt" : "New Zealand"
+      },
+      "geometry" : {
+        "x" : -159.78651046228796,
+        "y" : -21.219343980839994
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 50,
+        "sovereignt" : "Colombia"
+      },
+      "geometry" : {
+        "x" : -73.081342170604671,
+        "y" : 3.9093072928973243
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 51,
+        "sovereignt" : "Comoros"
+      },
+      "geometry" : {
+        "x" : 43.339727647512973,
+        "y" : -11.655423753703246
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 52,
+        "sovereignt" : "Cape Verde"
+      },
+      "geometry" : {
+        "x" : -23.636846208485679,
+        "y" : 15.08179865398472
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 53,
+        "sovereignt" : "Costa Rica"
+      },
+      "geometry" : {
+        "x" : -84.192010988416371,
+        "y" : 9.9746553104942564
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 54,
+        "sovereignt" : "Australia"
+      },
+      "geometry" : {
+        "x" : 154.39036434523837,
+        "y" : -21.02928367879872
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 55,
+        "sovereignt" : "Cuba"
+      },
+      "geometry" : {
+        "x" : -79.541249153225806,
+        "y" : 22.0933773366948
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 56,
+        "sovereignt" : "Netherlands"
+      },
+      "geometry" : {
+        "x" : -68.955738899230766,
+        "y" : 12.155979760557557
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 57,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -81.251798808068486,
+        "y" : 19.31828655837802
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 58,
+        "sovereignt" : "Northern Cyprus"
+      },
+      "geometry" : {
+        "x" : 33.651565995174565,
+        "y" : 35.194505376921654
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 59,
+        "sovereignt" : "Cyprus"
+      },
+      "geometry" : {
+        "x" : 32.954076150094295,
+        "y" : 34.9114686156841
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 60,
+        "sovereignt" : "Czech Republic"
+      },
+      "geometry" : {
+        "x" : 15.314103101876697,
+        "y" : 49.732448205520313
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 61,
+        "sovereignt" : "Germany"
+      },
+      "geometry" : {
+        "x" : 10.370788576531652,
+        "y" : 51.087103596453858
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 62,
+        "sovereignt" : "Djibouti"
+      },
+      "geometry" : {
+        "x" : 42.166510556716844,
+        "y" : 11.574902680214564
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 63,
+        "sovereignt" : "Dominica"
+      },
+      "geometry" : {
+        "x" : -61.356917591973229,
+        "y" : 15.436440485140338
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 64,
+        "sovereignt" : "Denmark"
+      },
+      "geometry" : {
+        "x" : 8.8115340503562152,
+        "y" : 55.801116362729999
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 65,
+        "sovereignt" : "Dominican Republic"
+      },
+      "geometry" : {
+        "x" : -70.500342926085125,
+        "y" : 18.899232864005512
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 66,
+        "sovereignt" : "Algeria"
+      },
+      "geometry" : {
+        "x" : 2.6530913765658397,
+        "y" : 28.1488896570321
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 67,
+        "sovereignt" : "Ecuador"
+      },
+      "geometry" : {
+        "x" : -78.387217600012207,
+        "y" : -1.4488622305074728
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 68,
+        "sovereignt" : "Egypt"
+      },
+      "geometry" : {
+        "x" : 29.860389040921575,
+        "y" : 26.492572977860675
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 69,
+        "sovereignt" : "Eritrea"
+      },
+      "geometry" : {
+        "x" : 38.098703143835053,
+        "y" : 16.08684535592846
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 70,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : 33.792457817674176,
+        "y" : 35.017688949985086
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 71,
+        "sovereignt" : "Spain"
+      },
+      "geometry" : {
+        "x" : -3.5629098219307025,
+        "y" : 40.389544428232853
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 72,
+        "sovereignt" : "Estonia"
+      },
+      "geometry" : {
+        "x" : 25.831378100518975,
+        "y" : 58.684171217627636
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 73,
+        "sovereignt" : "Ethiopia"
+      },
+      "geometry" : {
+        "x" : 39.60055108126744,
+        "y" : 8.6229517355342296
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 74,
+        "sovereignt" : "Finland"
+      },
+      "geometry" : {
+        "x" : 23.359754576812293,
+        "y" : 61.920951238209113
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 75,
+        "sovereignt" : "Fiji"
+      },
+      "geometry" : {
+        "x" : 177.9751989188951,
+        "y" : -17.824134076326516
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 76,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -58.754126792217619,
+        "y" : -51.734801989719983
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 77,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : 2.4521558886833645,
+        "y" : 46.620567376982933
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 78,
+        "sovereignt" : "Denmark"
+      },
+      "geometry" : {
+        "x" : -7.1019486160357701,
+        "y" : 62.210450566340626
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 79,
+        "sovereignt" : "Federated States of Micronesia"
+      },
+      "geometry" : {
+        "x" : 158.23401909800305,
+        "y" : 6.8826880737956344
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 80,
+        "sovereignt" : "Gabon"
+      },
+      "geometry" : {
+        "x" : 11.790918787971748,
+        "y" : -0.59161190236733319
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 81,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -0.23072262305055347,
+        "y" : 52.24111653729841
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 82,
+        "sovereignt" : "Georgia"
+      },
+      "geometry" : {
+        "x" : 43.340389727503975,
+        "y" : 42.044703652051965
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 83,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -2.5773503981023396,
+        "y" : 49.463353635761734
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 84,
+        "sovereignt" : "Ghana"
+      },
+      "geometry" : {
+        "x" : -1.216523799933384,
+        "y" : 7.9539547663994199
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 85,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -5.3467003235610377,
+        "y" : 36.129463670611983
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 86,
+        "sovereignt" : "Guinea"
+      },
+      "geometry" : {
+        "x" : -11.371786462075534,
+        "y" : 11.031439447672426
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 87,
+        "sovereignt" : "Gambia"
+      },
+      "geometry" : {
+        "x" : -16.076954107346126,
+        "y" : 13.288189062875006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 88,
+        "sovereignt" : "Guinea Bissau"
+      },
+      "geometry" : {
+        "x" : -14.427643068672637,
+        "y" : 12.119652358769372
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 89,
+        "sovereignt" : "Equatorial Guinea"
+      },
+      "geometry" : {
+        "x" : 10.467410409762635,
+        "y" : 1.5651758910545936
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 90,
+        "sovereignt" : "Greece"
+      },
+      "geometry" : {
+        "x" : 22.58185978929788,
+        "y" : 39.474998073102654
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 91,
+        "sovereignt" : "Grenada"
+      },
+      "geometry" : {
+        "x" : -61.679038994553935,
+        "y" : 12.117726631478888
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 92,
+        "sovereignt" : "Denmark"
+      },
+      "geometry" : {
+        "x" : -41.435354781298088,
+        "y" : 74.759333317078983
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 93,
+        "sovereignt" : "Guatemala"
+      },
+      "geometry" : {
+        "x" : -91.239905908730691,
+        "y" : 15.005258696431724
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 94,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : 144.7061873703509,
+        "y" : 13.354955466321769
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 95,
+        "sovereignt" : "Guyana"
+      },
+      "geometry" : {
+        "x" : -58.980287447807427,
+        "y" : 4.7928152599163809
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 96,
+        "sovereignt" : "China"
+      },
+      "geometry" : {
+        "x" : 114.02306155694532,
+        "y" : 22.414136149463786
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 97,
+        "sovereignt" : "Australia"
+      },
+      "geometry" : {
+        "x" : 73.505210188799254,
+        "y" : -53.088817025585229
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 98,
+        "sovereignt" : "Honduras"
+      },
+      "geometry" : {
+        "x" : -86.625161816264779,
+        "y" : 14.818428368874152
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 99,
+        "sovereignt" : "Croatia"
+      },
+      "geometry" : {
+        "x" : 17.931247495175796,
+        "y" : 45.443587283526369
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 100,
+        "sovereignt" : "Haiti"
+      },
+      "geometry" : {
+        "x" : -72.351624615483559,
+        "y" : 18.379849658235173
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 101,
+        "sovereignt" : "Hungary"
+      },
+      "geometry" : {
+        "x" : 19.396759266926665,
+        "y" : 47.163243686546934
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 102,
+        "sovereignt" : "Indonesia"
+      },
+      "geometry" : {
+        "x" : 113.93360436255136,
+        "y" : -0.97841194665397779
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 103,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -4.5336950833613514,
+        "y" : 54.229101900132662
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 104,
+        "sovereignt" : "India"
+      },
+      "geometry" : {
+        "x" : 79.586371421204205,
+        "y" : 22.913277353467151
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 105,
+        "sovereignt" : "Australia"
+      },
+      "geometry" : {
+        "x" : 105.66252271265313,
+        "y" : -10.49252335267056
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 106,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : 72.389414909570462,
+        "y" : -7.2928410059076327
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 107,
+        "sovereignt" : "Ireland"
+      },
+      "geometry" : {
+        "x" : -8.1382627445299818,
+        "y" : 53.176695854230331
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 108,
+        "sovereignt" : "Iran"
+      },
+      "geometry" : {
+        "x" : 54.275624719005634,
+        "y" : 32.576843908519606
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 109,
+        "sovereignt" : "Iraq"
+      },
+      "geometry" : {
+        "x" : 43.744977033563316,
+        "y" : 33.039803785816105
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 110,
+        "sovereignt" : "Iceland"
+      },
+      "geometry" : {
+        "x" : -19.021412727215534,
+        "y" : 64.79885347151054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 111,
+        "sovereignt" : "Israel"
+      },
+      "geometry" : {
+        "x" : 34.658281280356846,
+        "y" : 31.028552066824489
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 112,
+        "sovereignt" : "Italy"
+      },
+      "geometry" : {
+        "x" : 12.560077144744469,
+        "y" : 42.808590254037028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "sovereignt" : "Jamaica"
+      },
+      "geometry" : {
+        "x" : -77.318810465530532,
+        "y" : 18.155226388287247
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -2.1251521474536048,
+        "y" : 49.230095551268732
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 115,
+        "sovereignt" : "Jordan"
+      },
+      "geometry" : {
+        "x" : 37.12069213103706,
+        "y" : 30.636317835799559
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "sovereignt" : "Japan"
+      },
+      "geometry" : {
+        "x" : 139.26813805372831,
+        "y" : 36.656733995477566
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "sovereignt" : "Kazakhstan"
+      },
+      "geometry" : {
+        "x" : 63.383897003144227,
+        "y" : 45.978330138225374
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "sovereignt" : "Kashmir"
+      },
+      "geometry" : {
+        "x" : 77.179952798183137,
+        "y" : 35.391081981248476
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "sovereignt" : "Kazakhstan"
+      },
+      "geometry" : {
+        "x" : 67.289310631680337,
+        "y" : 48.156038194007522
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "sovereignt" : "Kenya"
+      },
+      "geometry" : {
+        "x" : 37.821488058427235,
+        "y" : 0.55154635178274702
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 121,
+        "sovereignt" : "Kyrgyzstan"
+      },
+      "geometry" : {
+        "x" : 74.531796351620414,
+        "y" : 41.457672091194127
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "sovereignt" : "Cambodia"
+      },
+      "geometry" : {
+        "x" : 104.90525199848099,
+        "y" : 12.718006279865961
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 123,
+        "sovereignt" : "Kiribati"
+      },
+      "geometry" : {
+        "x" : -157.377898729143,
+        "y" : 1.8385230759791966
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 124,
+        "sovereignt" : "Saint Kitts and Nevis"
+      },
+      "geometry" : {
+        "x" : -62.757975271941234,
+        "y" : 17.332253288258698
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 125,
+        "sovereignt" : "South Korea"
+      },
+      "geometry" : {
+        "x" : 127.86718266015168,
+        "y" : 36.459823567303829
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 126,
+        "sovereignt" : "Kosovo"
+      },
+      "geometry" : {
+        "x" : 20.873742977756251,
+        "y" : 42.572883356082059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 127,
+        "sovereignt" : "Kuwait"
+      },
+      "geometry" : {
+        "x" : 47.48260848809133,
+        "y" : 29.510030767905675
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 128,
+        "sovereignt" : "Laos"
+      },
+      "geometry" : {
+        "x" : 101.98889571136806,
+        "y" : 20.285349578919977
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 129,
+        "sovereignt" : "Lebanon"
+      },
+      "geometry" : {
+        "x" : 35.879936376362707,
+        "y" : 33.920358865769117
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 130,
+        "sovereignt" : "Liberia"
+      },
+      "geometry" : {
+        "x" : -9.3198639935284291,
+        "y" : 6.452232554189095
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 131,
+        "sovereignt" : "Libya"
+      },
+      "geometry" : {
+        "x" : 18.009605121079517,
+        "y" : 27.030277975448257
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 132,
+        "sovereignt" : "Saint Lucia"
+      },
+      "geometry" : {
+        "x" : -60.970316530783236,
+        "y" : 13.902670546908269
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 133,
+        "sovereignt" : "Liechtenstein"
+      },
+      "geometry" : {
+        "x" : 9.5409002880179514,
+        "y" : 47.138206429483205
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 134,
+        "sovereignt" : "Sri Lanka"
+      },
+      "geometry" : {
+        "x" : 80.705153657415394,
+        "y" : 7.6093601980147696
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 135,
+        "sovereignt" : "Lesotho"
+      },
+      "geometry" : {
+        "x" : 28.228622924608317,
+        "y" : -29.579730444004724
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 136,
+        "sovereignt" : "Lithuania"
+      },
+      "geometry" : {
+        "x" : 23.894070996379412,
+        "y" : 55.326733590882554
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 137,
+        "sovereignt" : "Luxembourg"
+      },
+      "geometry" : {
+        "x" : 6.0717639673332542,
+        "y" : 49.766824275420049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 138,
+        "sovereignt" : "Latvia"
+      },
+      "geometry" : {
+        "x" : 26.405105425574959,
+        "y" : 56.633419883121178
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 139,
+        "sovereignt" : "China"
+      },
+      "geometry" : {
+        "x" : 113.55645537931241,
+        "y" : 22.137158168514702
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 140,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : -63.055071491755882,
+        "y" : 18.077620298837758
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 141,
+        "sovereignt" : "Morocco"
+      },
+      "geometry" : {
+        "x" : -5.0274354348973702,
+        "y" : 32.738702582758037
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 142,
+        "sovereignt" : "Monaco"
+      },
+      "geometry" : {
+        "x" : 7.3989743247053639,
+        "y" : 43.739846187251771
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 143,
+        "sovereignt" : "Moldova"
+      },
+      "geometry" : {
+        "x" : 28.461397116283933,
+        "y" : 47.195101392115589
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 144,
+        "sovereignt" : "Madagascar"
+      },
+      "geometry" : {
+        "x" : 46.704131475886982,
+        "y" : -19.376895672697117
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 145,
+        "sovereignt" : "Maldives"
+      },
+      "geometry" : {
+        "x" : 73.410815565286157,
+        "y" : 3.2599698553245844
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 146,
+        "sovereignt" : "Mexico"
+      },
+      "geometry" : {
+        "x" : -102.51051579976433,
+        "y" : 23.942433260686471
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 147,
+        "sovereignt" : "Marshall Islands"
+      },
+      "geometry" : {
+        "x" : 171.21461022198423,
+        "y" : 7.0755660849069386
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 148,
+        "sovereignt" : "Macedonia"
+      },
+      "geometry" : {
+        "x" : 21.683830410744918,
+        "y" : 41.595004869179434
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 149,
+        "sovereignt" : "Mali"
+      },
+      "geometry" : {
+        "x" : -3.53907938310698,
+        "y" : 17.34416277898913
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 150,
+        "sovereignt" : "Malta"
+      },
+      "geometry" : {
+        "x" : 14.441361628636287,
+        "y" : 35.890610631175718
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 151,
+        "sovereignt" : "Myanmar"
+      },
+      "geometry" : {
+        "x" : 96.488799579437114,
+        "y" : 21.213845584506146
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 152,
+        "sovereignt" : "Montenegro"
+      },
+      "geometry" : {
+        "x" : 19.238500027554267,
+        "y" : 42.785818045666304
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 153,
+        "sovereignt" : "Mongolia"
+      },
+      "geometry" : {
+        "x" : 103.82136783825518,
+        "y" : 45.977821178604586
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 154,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : 145.74136937559626,
+        "y" : 15.183666850544739
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 155,
+        "sovereignt" : "Mozambique"
+      },
+      "geometry" : {
+        "x" : 38.189455602094426,
+        "y" : -14.276269597363978
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 156,
+        "sovereignt" : "Mauritania"
+      },
+      "geometry" : {
+        "x" : -10.342116379167521,
+        "y" : 20.25632199036761
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 157,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -62.187398782827529,
+        "y" : 16.73752356486068
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 158,
+        "sovereignt" : "Mauritius"
+      },
+      "geometry" : {
+        "x" : 57.569566765793638,
+        "y" : -20.27932367944419
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 159,
+        "sovereignt" : "Malawi"
+      },
+      "geometry" : {
+        "x" : 33.473555846824922,
+        "y" : -13.411753437770869
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 160,
+        "sovereignt" : "Malaysia"
+      },
+      "geometry" : {
+        "x" : 114.40326114578534,
+        "y" : 2.8810904955299748
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 161,
+        "sovereignt" : "Namibia"
+      },
+      "geometry" : {
+        "x" : 17.211133197639015,
+        "y" : -22.129246638921188
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 162,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : 165.5102238287667,
+        "y" : -21.405394804826358
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 163,
+        "sovereignt" : "Niger"
+      },
+      "geometry" : {
+        "x" : 9.3860339964717809,
+        "y" : 17.418463770886376
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 164,
+        "sovereignt" : "Australia"
+      },
+      "geometry" : {
+        "x" : 167.95516933269857,
+        "y" : -29.034975103318345
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 165,
+        "sovereignt" : "Nigeria"
+      },
+      "geometry" : {
+        "x" : 8.0914899574955825,
+        "y" : 9.5969713070801959
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 166,
+        "sovereignt" : "Nicaragua"
+      },
+      "geometry" : {
+        "x" : -85.03426081818219,
+        "y" : 12.845120514700056
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 167,
+        "sovereignt" : "New Zealand"
+      },
+      "geometry" : {
+        "x" : -169.86934604178637,
+        "y" : -19.048919755542215
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 168,
+        "sovereignt" : "Netherlands"
+      },
+      "geometry" : {
+        "x" : 5.3227689980908508,
+        "y" : 52.172351139693376
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 169,
+        "sovereignt" : "Norway"
+      },
+      "geometry" : {
+        "x" : 11.464325391403747,
+        "y" : 61.443128901277817
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 170,
+        "sovereignt" : "Nepal"
+      },
+      "geometry" : {
+        "x" : 83.916253271671224,
+        "y" : 28.247922207543922
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 171,
+        "sovereignt" : "Nauru"
+      },
+      "geometry" : {
+        "x" : 166.93313192909534,
+        "y" : -0.52078288442254461
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 172,
+        "sovereignt" : "New Zealand"
+      },
+      "geometry" : {
+        "x" : 170.51550106752029,
+        "y" : -43.986376451012347
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 173,
+        "sovereignt" : "Oman"
+      },
+      "geometry" : {
+        "x" : 57.878084548263359,
+        "y" : 22.004082563459576
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 174,
+        "sovereignt" : "Pakistan"
+      },
+      "geometry" : {
+        "x" : 69.34141814293298,
+        "y" : 29.948728625325828
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 175,
+        "sovereignt" : "Panama"
+      },
+      "geometry" : {
+        "x" : -78.635763917370866,
+        "y" : 9.0768033483958561
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 176,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -128.31708070021409,
+        "y" : -24.366031723784999
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 177,
+        "sovereignt" : "Peru"
+      },
+      "geometry" : {
+        "x" : -71.847578744663281,
+        "y" : -13.589558956180838
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 178,
+        "sovereignt" : "Spratly Islands"
+      },
+      "geometry" : {
+        "x" : 115.82220515324525,
+        "y" : 10.729707326132257
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 179,
+        "sovereignt" : "Philippines"
+      },
+      "geometry" : {
+        "x" : 120.86384117922705,
+        "y" : 14.179700298230216
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 180,
+        "sovereignt" : "Palau"
+      },
+      "geometry" : {
+        "x" : 134.58014870869602,
+        "y" : 7.513818659203821
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 181,
+        "sovereignt" : "Papua New Guinea"
+      },
+      "geometry" : {
+        "x" : 144.24980728028186,
+        "y" : -6.6120733348165004
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 182,
+        "sovereignt" : "Poland"
+      },
+      "geometry" : {
+        "x" : 19.394322248073365,
+        "y" : 52.124771827857614
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 183,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : -66.481071989680515,
+        "y" : 18.225895739696682
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 184,
+        "sovereignt" : "North Korea"
+      },
+      "geometry" : {
+        "x" : 127.18672566435794,
+        "y" : 40.152210296967667
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 185,
+        "sovereignt" : "Portugal"
+      },
+      "geometry" : {
+        "x" : -7.9746968045138829,
+        "y" : 39.680823157862505
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 186,
+        "sovereignt" : "Paraguay"
+      },
+      "geometry" : {
+        "x" : -60.549090129206036,
+        "y" : -21.67823375588307
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 187,
+        "sovereignt" : "Israel"
+      },
+      "geometry" : {
+        "x" : 35.244955722228838,
+        "y" : 31.945385436588651
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 188,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : -149.42048346334113,
+        "y" : -17.663914032506568
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 189,
+        "sovereignt" : "Qatar"
+      },
+      "geometry" : {
+        "x" : 51.187095094063409,
+        "y" : 25.312940582242106
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 190,
+        "sovereignt" : "Romania"
+      },
+      "geometry" : {
+        "x" : 24.972941887658067,
+        "y" : 45.853464093393256
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 191,
+        "sovereignt" : "Russia"
+      },
+      "geometry" : {
+        "x" : 99.070849535177956,
+        "y" : 61.66113181378222
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 192,
+        "sovereignt" : "Rwanda"
+      },
+      "geometry" : {
+        "x" : 29.919060705087531,
+        "y" : -1.9927505276147031
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 193,
+        "sovereignt" : "Western Sahara"
+      },
+      "geometry" : {
+        "x" : -12.892726708870498,
+        "y" : 23.812849563956263
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 194,
+        "sovereignt" : "Saudi Arabia"
+      },
+      "geometry" : {
+        "x" : 44.538635852862399,
+        "y" : 24.124096703400198
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 195,
+        "sovereignt" : "Scarborough Reef"
+      },
+      "geometry" : {
+        "x" : 117.7538119630517,
+        "y" : 15.15211282174937
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 196,
+        "sovereignt" : "Sudan"
+      },
+      "geometry" : {
+        "x" : 29.939483216077633,
+        "y" : 15.986792636970677
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 197,
+        "sovereignt" : "South Sudan"
+      },
+      "geometry" : {
+        "x" : 30.301119612580123,
+        "y" : 7.283530708075773
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 198,
+        "sovereignt" : "Senegal"
+      },
+      "geometry" : {
+        "x" : -14.471306056928938,
+        "y" : 14.367788599264486
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 199,
+        "sovereignt" : "Serranilla Bank"
+      },
+      "geometry" : {
+        "x" : -78.638118728296661,
+        "y" : 15.864460896053572
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 200,
+        "sovereignt" : "Singapore"
+      },
+      "geometry" : {
+        "x" : 103.81346765830585,
+        "y" : 1.3589210202889035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 201,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -36.908334927414899,
+        "y" : -54.202177314831147
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 202,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -5.7173644717929051,
+        "y" : -15.959097938818786
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 203,
+        "sovereignt" : "Solomon Islands"
+      },
+      "geometry" : {
+        "x" : 160.17030276196294,
+        "y" : -9.6226093911104726
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 204,
+        "sovereignt" : "Sierra Leone"
+      },
+      "geometry" : {
+        "x" : -11.787342901653517,
+        "y" : 8.5719108162312523
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 205,
+        "sovereignt" : "El Salvador"
+      },
+      "geometry" : {
+        "x" : -88.872215382733714,
+        "y" : 13.736452014249096
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 206,
+        "sovereignt" : "San Marino"
+      },
+      "geometry" : {
+        "x" : 12.442222559023946,
+        "y" : 43.936466194659204
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 207,
+        "sovereignt" : "Somaliland"
+      },
+      "geometry" : {
+        "x" : 46.254819111013205,
+        "y" : 9.7310158812779264
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 208,
+        "sovereignt" : "Somalia"
+      },
+      "geometry" : {
+        "x" : 43.578298484187769,
+        "y" : 2.790117241117855
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 209,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : -56.275776740703975,
+        "y" : 46.859460310345128
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 210,
+        "sovereignt" : "Republic of Serbia"
+      },
+      "geometry" : {
+        "x" : 20.790402496178331,
+        "y" : 44.221375866003484
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 211,
+        "sovereignt" : "Sao Tome and Principe"
+      },
+      "geometry" : {
+        "x" : 6.6076353623820978,
+        "y" : 0.23556471883676977
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 212,
+        "sovereignt" : "Suriname"
+      },
+      "geometry" : {
+        "x" : -55.91107135645791,
+        "y" : 4.1312449821702444
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 213,
+        "sovereignt" : "Slovakia"
+      },
+      "geometry" : {
+        "x" : 19.480382971097299,
+        "y" : 48.704935302122522
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 214,
+        "sovereignt" : "Slovenia"
+      },
+      "geometry" : {
+        "x" : 14.940281412357365,
+        "y" : 46.063557686138381
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 215,
+        "sovereignt" : "Sweden"
+      },
+      "geometry" : {
+        "x" : 14.371977065788997,
+        "y" : 60.594603011419906
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 216,
+        "sovereignt" : "Swaziland"
+      },
+      "geometry" : {
+        "x" : 31.480024103229823,
+        "y" : -26.561914348768141
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 217,
+        "sovereignt" : "Netherlands"
+      },
+      "geometry" : {
+        "x" : -63.070131027025241,
+        "y" : 18.040629345767741
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 218,
+        "sovereignt" : "Seychelles"
+      },
+      "geometry" : {
+        "x" : 55.478401059561293,
+        "y" : -4.6618388944493745
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 219,
+        "sovereignt" : "Syria"
+      },
+      "geometry" : {
+        "x" : 38.504564328780816,
+        "y" : 35.02300255832148
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 220,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -71.740793423877392,
+        "y" : 21.816520408989732
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 221,
+        "sovereignt" : "Chad"
+      },
+      "geometry" : {
+        "x" : 18.646251113697986,
+        "y" : 15.333078104570916
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 222,
+        "sovereignt" : "Togo"
+      },
+      "geometry" : {
+        "x" : 0.96227162703399927,
+        "y" : 8.5267880888992522
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 223,
+        "sovereignt" : "Thailand"
+      },
+      "geometry" : {
+        "x" : 101.00874649655361,
+        "y" : 15.137214328978132
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 224,
+        "sovereignt" : "Tajikistan"
+      },
+      "geometry" : {
+        "x" : 69.298048745553217,
+        "y" : 38.317300993845834
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 225,
+        "sovereignt" : "Turkmenistan"
+      },
+      "geometry" : {
+        "x" : 59.377467586060277,
+        "y" : 39.11592299435074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 226,
+        "sovereignt" : "East Timor"
+      },
+      "geometry" : {
+        "x" : 125.93659613030718,
+        "y" : -8.8037265768199973
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 227,
+        "sovereignt" : "Tonga"
+      },
+      "geometry" : {
+        "x" : -175.2078547844707,
+        "y" : -21.19028650961468
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 228,
+        "sovereignt" : "Trinidad and Tobago"
+      },
+      "geometry" : {
+        "x" : -61.293936927846914,
+        "y" : 10.421859497218065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 229,
+        "sovereignt" : "Tunisia"
+      },
+      "geometry" : {
+        "x" : 9.521981648534279,
+        "y" : 33.759552102447628
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 230,
+        "sovereignt" : "Turkey"
+      },
+      "geometry" : {
+        "x" : 35.423544033930057,
+        "y" : 38.989579778883751
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 231,
+        "sovereignt" : "Tuvalu"
+      },
+      "geometry" : {
+        "x" : 179.20500738907981,
+        "y" : -8.5040685581174102
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 232,
+        "sovereignt" : "Taiwan"
+      },
+      "geometry" : {
+        "x" : 120.96434709714083,
+        "y" : 23.753332133271385
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 233,
+        "sovereignt" : "United Republic of Tanzania"
+      },
+      "geometry" : {
+        "x" : 34.798532576916955,
+        "y" : -6.2755669289705338
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 234,
+        "sovereignt" : "Uganda"
+      },
+      "geometry" : {
+        "x" : 32.367039852507219,
+        "y" : 1.2756911921948131
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 235,
+        "sovereignt" : "Ukraine"
+      },
+      "geometry" : {
+        "x" : 31.385663214186025,
+        "y" : 48.998189391527262
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 236,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : -75.014658228294536,
+        "y" : 18.407050019542794
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 237,
+        "sovereignt" : "Uruguay"
+      },
+      "geometry" : {
+        "x" : -56.017155065753627,
+        "y" : -32.798210753823184
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 238,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : -99.144440955485663,
+        "y" : 39.528019315738902
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 239,
+        "sovereignt" : "Cuba"
+      },
+      "geometry" : {
+        "x" : -75.130123185836339,
+        "y" : 19.91444756000692
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 240,
+        "sovereignt" : "Uzbekistan"
+      },
+      "geometry" : {
+        "x" : 64.562239623459902,
+        "y" : 41.193444303411923
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 241,
+        "sovereignt" : "Vatican"
+      },
+      "geometry" : {
+        "x" : 12.453417729044986,
+        "y" : 41.903312469295088
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 242,
+        "sovereignt" : "Saint Vincent and the Grenadines"
+      },
+      "geometry" : {
+        "x" : -61.19397492979914,
+        "y" : 13.256500866022179
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 243,
+        "sovereignt" : "Venezuela"
+      },
+      "geometry" : {
+        "x" : -66.18370828900629,
+        "y" : 7.1173797315893808
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 244,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : -64.615486766600952,
+        "y" : 18.433098209015156
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 245,
+        "sovereignt" : "United States of America"
+      },
+      "geometry" : {
+        "x" : -64.762637699670051,
+        "y" : 17.739306054231065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 246,
+        "sovereignt" : "Vietnam"
+      },
+      "geometry" : {
+        "x" : 107.63398084933681,
+        "y" : 12.899789383673181
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 247,
+        "sovereignt" : "Vanuatu"
+      },
+      "geometry" : {
+        "x" : 166.8537746572747,
+        "y" : -15.23148385659465
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 248,
+        "sovereignt" : "France"
+      },
+      "geometry" : {
+        "x" : -176.1619279182388,
+        "y" : -13.281862538025678
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 249,
+        "sovereignt" : "United Kingdom"
+      },
+      "geometry" : {
+        "x" : 32.962738603503794,
+        "y" : 34.596896120559563
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 250,
+        "sovereignt" : "Samoa"
+      },
+      "geometry" : {
+        "x" : -172.43824293866066,
+        "y" : -13.630546982956844
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 251,
+        "sovereignt" : "Yemen"
+      },
+      "geometry" : {
+        "x" : 45.23017650544142,
+        "y" : 15.217160885166777
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 252,
+        "sovereignt" : "South Africa"
+      },
+      "geometry" : {
+        "x" : 25.159238700505682,
+        "y" : -29.009216462269876
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 253,
+        "sovereignt" : "Zambia"
+      },
+      "geometry" : {
+        "x" : 27.827040038566963,
+        "y" : -14.608140728311923
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 254,
+        "sovereignt" : "Zimbabwe"
+      },
+      "geometry" : {
+        "x" : 29.851884620878593,
+        "y" : -19.002536710200957
+      }
+    }
+  ]
+}
